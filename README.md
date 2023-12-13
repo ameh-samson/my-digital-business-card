@@ -1,11 +1,11 @@
-# co82549ad953724c55c71b654
+# my digital business card
 
 Quick start:
 
 ```
 $ yarn # npm install
 $ yarn build # npm run build
-````
+```
 
 ## Development
 
